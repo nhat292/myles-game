@@ -1,0 +1,23 @@
+#textBox{
+  font-family: arial;
+  color: #000000; !important;
+  font-size: 20px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  border: 0px solid transparent;
+}
+#textBox:focus {
+    outline: none;
+}
+::-webkit-input-placeholder { /* Edge */
+  color: #D3D3D3;
+}
+
+:-ms-input-placeholder { /* Internet Explorer */
+  color: #D3D3D3;
+}
+
+::placeholder {
+  color: #D3D3D3;
+}

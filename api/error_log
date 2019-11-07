@@ -1,0 +1,180 @@
+[23-Oct-2019 23:03:06 Asia/Kuala_Lumpur] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/infinity/public_html/sia/api/api.php on line 24
+[23-Oct-2019 23:03:14 Asia/Kuala_Lumpur] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/infinity/public_html/sia/api/api.php on line 24
+[24-Oct-2019 01:13:24 Asia/Kuala_Lumpur] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/infinity/public_html/sia/api/api.php on line 24
+[24-Oct-2019 01:13:26 Asia/Kuala_Lumpur] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/infinity/public_html/sia/api/api.php on line 24
+[25-Oct-2019 00:05:54 Asia/Kuala_Lumpur] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/infinity/public_html/sia/api/api.php on line 60
+[25-Oct-2019 00:06:30 Asia/Kuala_Lumpur] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/infinity/public_html/sia/api/api.php on line 60
+[25-Oct-2019 00:06:31 Asia/Kuala_Lumpur] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/infinity/public_html/sia/api/api.php on line 60
+[25-Oct-2019 00:07:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/infinity/public_html/sia/api/api.php on line 60
+[25-Oct-2019 00:07:32 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/infinity/public_html/sia/api/api.php on line 60
+[25-Oct-2019 00:09:55 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:09:55 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:34:23 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:35:17 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 61
+[25-Oct-2019 00:36:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 0 in /home/infinity/public_html/sia/api/api.php on line 61
+[25-Oct-2019 00:37:42 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 61
+[25-Oct-2019 00:39:03 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 61
+[25-Oct-2019 00:49:40 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'mysqli_connect' not found in /home/infinity/public_html/sia/api/api.php on line 24
+[25-Oct-2019 00:50:06 Asia/Kuala_Lumpur] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/infinity/public_html/sia/api/api.php on line 61
+[25-Oct-2019 00:52:18 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:22 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:23 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:44 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:45 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:45 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:52:45 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:53:51 Asia/Kuala_Lumpur] PHP Notice:  Array to string conversion in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:54:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: email in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:54:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: email in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:54:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: email in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 00:54:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: email in /home/infinity/public_html/sia/api/api.php on line 62
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 3 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 4 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 01:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 6 in /home/infinity/public_html/sia/api/api.php on line 407
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: id in /home/infinity/public_html/sia/api/api.php on line 152
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: fb_id in /home/infinity/public_html/sia/api/api.php on line 152
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: email in /home/infinity/public_html/sia/api/api.php on line 152
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: first_name in /home/infinity/public_html/sia/api/api.php on line 152
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: last_name in /home/infinity/public_html/sia/api/api.php on line 152
+[25-Oct-2019 04:19:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: score in /home/infinity/public_html/sia/api/api.php on line 152
+[27-Oct-2019 03:16:52 Asia/Kuala_Lumpur] PHP Warning:  file_put_contents(screenshot/share_1572117412271.jpg): failed to open stream: No such file or directory in /home/infinity/public_html/sia/api/api.php on line 210
+[27-Oct-2019 03:16:52 Asia/Kuala_Lumpur] PHP Warning:  file_put_contents(screenshot/share_1572117412405.jpg): failed to open stream: No such file or directory in /home/infinity/public_html/sia/api/api.php on line 210
+[27-Oct-2019 03:17:06 Asia/Kuala_Lumpur] PHP Warning:  file_put_contents(screenshot/share_1572117426333.jpg): failed to open stream: No such file or directory in /home/infinity/public_html/sia/api/api.php on line 210
+[30-Oct-2019 12:18:25 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:19:10 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:19:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:19:12 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:19:14 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:19:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:24:32 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:24:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:28:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: sql in /home/infinity/public_html/sia/api/api.php on line 262
+[30-Oct-2019 12:28:56 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Empty query in /home/infinity/public_html/sia/api/api.php on line 262
+[30-Oct-2019 12:29:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:34:13 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:34:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:34:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:07 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:09 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:12 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:13 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:14 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:14 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:36:19 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:37:31 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:37:32 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 264
+[30-Oct-2019 12:38:03 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:39:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:39:32 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:39:33 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:39:34 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:39:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:42:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinity/public_html/sia/api/api.php on line 253
+[30-Oct-2019 12:42:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/infinity/public_html/sia/api/api.php on line 263
+[30-Oct-2019 12:42:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function close() on resource in /home/infinity/public_html/sia/api/api.php on line 270
+[30-Oct-2019 19:49:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: GET in /home/infinity/public_html/sia/api/api.php on line 22
+[30-Oct-2019 19:49:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: _DELETE in /home/infinity/public_html/sia/api/api.php on line 277
+[30-Oct-2019 19:54:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: score in /home/infinity/public_html/sia/api/api.php on line 134
+[31-Oct-2019 15:25:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[31-Oct-2019 15:25:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[31-Oct-2019 15:27:07 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[31-Oct-2019 15:28:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[31-Oct-2019 15:28:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[31-Oct-2019 19:03:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[01-Nov-2019 10:49:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[01-Nov-2019 16:29:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[01-Nov-2019 16:29:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[02-Nov-2019 10:47:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[02-Nov-2019 10:55:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[02-Nov-2019 11:05:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[02-Nov-2019 11:09:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[02-Nov-2019 19:07:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function savefile() in /home/infinity/public_html/sia/api/api.php on line 19
+[03-Nov-2019 00:40:26 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:40:26 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:40:26 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:40:26 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:42:33 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:33 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:33 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:42:33 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:42:38 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:38 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:38 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:42:38 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:42:58 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:58 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:42:58 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:42:58 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:00 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:00 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:00 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:00 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:01 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:01 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:01 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:01 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:02 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:02 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:02 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:02 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:03 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:03 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:03 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:03 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:05 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:05 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:05 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:05 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 00:43:07 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:07 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): 'share_background.png' is not a valid JPEG file in /home/infinity/public_html/sia/api/api.php on line 342
+[03-Nov-2019 00:43:07 Asia/Kuala_Lumpur] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 345
+[03-Nov-2019 00:43:07 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/infinity/public_html/sia/api/api.php on line 352
+[03-Nov-2019 01:34:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: 380 in /home/infinity/public_html/sia/api/api.php on line 349
+[03-Nov-2019 01:34:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: 480 in /home/infinity/public_html/sia/api/api.php on line 349
+[03-Nov-2019 01:34:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: 580 in /home/infinity/public_html/sia/api/api.php on line 349
+[03-Nov-2019 01:34:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: 685 in /home/infinity/public_html/sia/api/api.php on line 349
+[03-Nov-2019 01:34:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: 790 in /home/infinity/public_html/sia/api/api.php on line 349

@@ -1,0 +1,9 @@
+#textBox{
+  font-family: arial;
+  color: #000000 !important;
+  font-size: 20px;
+  padding: 10px 25px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+}
